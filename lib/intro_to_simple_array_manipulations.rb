@@ -20,5 +20,5 @@ def using_delete (instructors, steven)
 end
 
 def using_delete_at (famous_robots, 2)
-  famous_robots.delete(robocop)
+  famous_robots.delete(r2d2)
 end
